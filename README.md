@@ -1,24 +1,37 @@
-# Agricultural Price Analysis Dashboard
+# 🌾 Agricultural Price Analysis Dashboard
 
 ## 📌 Overview
-This project analyzes agricultural market data to identify price trends and market insights.
+This project analyzes agricultural market data (13K+ records) to uncover price trends, seasonal patterns, and high-performing districts.
 
-## 🛠 Tools Used
-- Excel
+## 🛠 Tools & Technologies
+- Excel (Data Cleaning)
 - Python (Pandas, Scikit-learn)
-- Power BI
+- Power BI (Visualization)
 
-## 📊 Features
-- Price trend analysis
-- Monthly seasonality
-- Arrival vs Price relationship
-- Top districts by price
+## 📊 Key Features
+- Price trend analysis over time  
+- Monthly seasonality insights  
+- Arrival vs Price relationship  
+- Top districts by price  
+- Interactive dashboard with slicers  
+
+## 🤖 Machine Learning
+- Random Forest Regressor  
+- Evaluated using MAE and R² Score  
+
+## 📊 Dashboard Preview
+![Dashboard]<img width="1308" height="738" alt="DASHBOARD" src="https://github.com/user-attachments/assets/c6f9c649-5a7c-4283-a3e2-bb7ee6b05bf0" />
+
+
+## 🚀 Insights
+- Pomegranate shows highest price trend  
+- Higher arrivals generally reduce prices  
+- Pune & Amarawati lead in pricing  
 
 ## 📁 Files
-- data.xlsx → raw dataset
-- analysis.ipynb → Python analysis
-- dashboard.pbix → Power BI dashboard
+- `data.xlsx` → Raw dataset  
+- `analysis.ipynb` → Python analysis  
+- `dashboard.pbix` → Power BI dashboard  
 
-## 📸 Dashboard Preview
-![Dashboard]<img width="1308" height="738" alt="DASHBOARD" src="https://github.com/user-attachments/assets/df657986-686d-49f1-af97-af288786fb08" />
-
+## 📌 Conclusion
+This project helps stakeholders make data-driven decisions on optimal selling time and location.
