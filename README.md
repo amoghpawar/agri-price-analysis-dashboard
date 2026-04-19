@@ -20,4 +20,5 @@ This project analyzes agricultural market data to identify price trends and mark
 - dashboard.pbix → Power BI dashboard
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard]<img width="1308" height="738" alt="DASHBOARD" src="https://github.com/user-attachments/assets/df657986-686d-49f1-af97-af288786fb08" />
+
