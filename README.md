@@ -20,7 +20,8 @@ This project analyzes agricultural market data (13K+ records) to uncover price t
 - Evaluated using MAE and R² Score  
 
 ## 📊 Dashboard Preview
-![Dashboard]<img width="1308" height="738" alt="DASHBOARD" src="https://github.com/user-attachments/assets/c6f9c649-5a7c-4283-a3e2-bb7ee6b05bf0" />
+![Dashboard]<img width="1310" height="737" alt="DASHBOARD" src="https://github.com/user-attachments/assets/bad17200-0da7-459f-9408-7d4c32e69c02" />
+
 
 
 ## 🚀 Insights
