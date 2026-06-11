@@ -1,0 +1,6 @@
+file.xlsx
+project_visualization.pbix
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
